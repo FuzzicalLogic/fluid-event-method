@@ -38,7 +38,7 @@ Invoke the `remote` method on the parent element every time a `trigger` event is
 4. Add `<fluid-triggered-method>` element to your document.
 
     ```html
-    <script src="path/to/fluid-triggered-method.js"></script>
+    <script src="path/to/fluid-triggered-method/component.js"></script>
     ```
 
 6. Use element whereever you want to transclude html.
